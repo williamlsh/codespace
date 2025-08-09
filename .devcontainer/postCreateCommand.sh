@@ -2,6 +2,6 @@
 
 set -e
 
-curl -LO https://github.com/williamlsh/http-proxy/releases/download/v0.0.1/http-proxy.amd64
+curl -LO https://github.com/williamlsh/http-proxy/releases/download/v0.1.3/http-proxy
 
-sudo mv http-proxy.amd64 /usr/local/bin/http-proxy
+sudo mv http-proxy /usr/local/bin/http-proxy
